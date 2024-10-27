@@ -11,4 +11,4 @@
 Explore our comprehensive [documentation](https://scriptblocks.github.io/docs) to learn how to use our IDE, package, and Python more effectively.
 
 ### License:
-Our repositories are licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), ensuring that our software remains free and open-source.
+Most of our repositories are licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), ensuring that our software remains free and open-source.
